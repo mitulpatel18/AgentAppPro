@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Agent App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="all_rights_reserved_by_million_solutions_llp">All rights reserved by Million Solutions LLP.</string>
+    <string name="powered_by_ms_cca_tier_ii_solution">Powered By MS-CCA Tier II Solution</string>
+    <string name="login">Login</string>
+    <string name="information">Information</string>
+    <string name="Demo">demo</string>
+</resources>
